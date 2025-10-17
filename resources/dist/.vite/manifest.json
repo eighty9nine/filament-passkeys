@@ -1,0 +1,11 @@
+{
+  "resources/js/filament-passkeys.js": {
+    "file": "filament-passkeys.js",
+    "name": "filament-passkeys",
+    "src": "resources/js/filament-passkeys.js",
+    "isEntry": true,
+    "css": [
+      "filament-passkeys.css"
+    ]
+  }
+}
